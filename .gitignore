@@ -1,0 +1,5 @@
+########
+# ignore this file, with extension of md
+#############
+test.md
+/node_modules
